@@ -1,1 +1,5 @@
 weapon code
+weapon code 2
+weapon code 3
+weapon code 4
+weapon code 5
