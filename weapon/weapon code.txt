@@ -1,1 +1,7 @@
-weapon code
+weapon second code 1
+weapon second code 2
+weapon second code 3
+weapon second code 4
+weapon second code 5
+weapon second code 6
+weapon second code 7
